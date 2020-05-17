@@ -16,8 +16,13 @@
       <file leaf-file-name="pom.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="387">
               <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
+=======
+            <state relative-caret-position="750">
+              <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
+>>>>>>> fada
             </state>
           </provider>
         </entry>
@@ -156,12 +161,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589705635775</updated>
+<<<<<<< HEAD
       <workItem from="1589705638020" duration="693000" />
+=======
+      <workItem from="1589705638020" duration="72000" />
+>>>>>>> fada
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="693000" />
+=======
+    <option name="totallyTimeSpent" value="72000" />
+>>>>>>> fada
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
@@ -207,8 +220,13 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="387">
           <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
+=======
+        <state relative-caret-position="750">
+          <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
+>>>>>>> fada
         </state>
       </provider>
     </entry>
